@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishabh-d34
+- 👋 Hi, I’m Rishabh Tripathi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning C-Programming
 - 💞️ I’m looking to collaborate on C Projects
